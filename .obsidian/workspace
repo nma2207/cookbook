@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "proper_nutrition/chicken_fillet_in_parchment_in_pan.md",
+            "file": "readme.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "proper_nutrition/chicken_fillet_in_parchment_in_pan.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "ba9bd96f8ee26d00",
   "lastOpenFiles": [
-    "proper_nutrition/chicken_fillet_in_parchment_in_pan.md",
     "readme.md",
+    "proper_nutrition/chicken_fillet_in_parchment_in_pan.md",
     "soup/onion_soup.md",
     "soup/cheese_mushroom_soup.md",
     "proper_nutrition/img/posypaem-pergament-speciyami.jpg",
