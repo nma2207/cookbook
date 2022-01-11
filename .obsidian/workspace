@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readme.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "377622b814ba73ee",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "readme.md",
+            "file": "proper_nutrition/chicken_fillet_in_parchment_in_pan.md",
             "mode": "preview"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "proper_nutrition/chicken_fillet_in_parchment_in_pan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "377622b814ba73ee",
+  "active": "ba9bd96f8ee26d00",
   "lastOpenFiles": [
-    "readme.md",
     "proper_nutrition/chicken_fillet_in_parchment_in_pan.md",
+    "readme.md",
+    "soup/onion_soup.md",
+    "soup/cheese_mushroom_soup.md",
+    "proper_nutrition/img/posypaem-pergament-speciyami.jpg",
     "proper_nutrition/img/kurinoe-file-v-pergamente-na-skovorode-gotovo.jpg",
     "proper_nutrition/img/kurinoe-file-razrezaem-vdol.jpg",
     "proper_nutrition/img/kurinoe-file-v-pergamente-na-skovorode.jpg",
     "proper_nutrition/img/smazyvaem-pergament-maslom.jpg",
-    "proper_nutrition/img/posypaem-pergament-speciyami.jpg",
-    "proper_nutrition/img/perenosim-file-na-tarelku.jpg",
-    "proper_nutrition/img/perekladyvaem-pergament-s-file-na-skovorodu.jpg",
-    "proper_nutrition/img/otbivaem-kurinoe-file.jpg"
+    "proper_nutrition/img/perenosim-file-na-tarelku.jpg"
   ]
 }
