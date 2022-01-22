@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readme.md",
+            "file": "proper_nutrition/pasta_and_tuna.md",
             "mode": "preview"
           }
         }
@@ -97,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a3c92517d8f28f2c",
+  "active": "ba9bd96f8ee26d00",
   "lastOpenFiles": [
     "readme.md",
-    "proper_nutrition/rice_and_dried_fruits.md",
+    "proper_nutrition/pasta_and_tuna.md",
     "proper_nutrition/chicken_fillet_in_parchment_in_pan.md",
-    "soup/cheese_mushroom_soup.md",
     "proper_nutrition/Untitled.md",
+    "proper_nutrition/rice_and_dried_fruits.md",
+    "soup/cheese_mushroom_soup.md",
     "soup/onion_soup.md",
     "proper_nutrition/img/posypaem-pergament-speciyami.jpg",
     "proper_nutrition/img/kurinoe-file-v-pergamente-na-skovorode-gotovo.jpg",
-    "proper_nutrition/img/kurinoe-file-razrezaem-vdol.jpg",
-    "proper_nutrition/img/kurinoe-file-v-pergamente-na-skovorode.jpg"
+    "proper_nutrition/img/kurinoe-file-razrezaem-vdol.jpg"
   ]
 }
